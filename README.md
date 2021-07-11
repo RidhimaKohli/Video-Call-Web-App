@@ -1,6 +1,7 @@
 # Video-Call-Web-App 
 
 ✨✨✨Welcome !✨✨✨
+
 This repository contains the code for the Video-Call-Web-App developed by : [Ridhima Kohli](https://github.com/RidhimaKohli)
  under the Microsoft Mentorship Program , 2021.
 
@@ -40,7 +41,7 @@ Link to demo : [Demo]()
 
 ## Website link ❤
 
--Link : [Video Call Web-App]()
+- Link : [Video Call Web-App]()
 
 
 
