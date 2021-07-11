@@ -9,7 +9,7 @@ This project was developed following the Agile Methodology . The [Kanban Board](
 
 - [Wireframes and use cases](https://drive.google.com/file/d/1Mbm1YG_T0cqQQRzyMGtn0eq-SkjqNjVr/view?usp=sharing)
 
-# Description
+# Description 💁🏻‍♀️
 
 This is a video calling web application which one can use on their browser.
 
@@ -52,7 +52,7 @@ Introduction slides : [Slides](https://docs.google.com/presentation/d/1NxyeZbWRq
 
 This website has been deployed using heroku
 
-## Sources used for learning
+## Sources used for learning 🔎
 
 - [Socket IO Docs](https://socket.io/docs/v4/index.html)
 - [NodeJS Docs](https://nodejs.org/en/docs/)
