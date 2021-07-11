@@ -21,6 +21,11 @@ This is a video calling web application which one can use on their browser.
 - HTML / CSS / Bootstrap
 - Javascript
 
+## Development Tools used
+- VS Code
+- [Accessibility Extension](https://microsoftedge.microsoft.com/addons/detail/accessibility-insights-fo/ghbhpcookfemncgoinjblecnilppimih)
+- Figma ( for wireframes )
+
 ## Features 📃
 - Video Call
 - Chat Room
@@ -45,6 +50,12 @@ Link to demo : [Demo]()
 
 This website has been deployed using heroku
 
+## Sources used for learning
+
+- [Socket IO Docs](https://socket.io/docs/v4/index.html)
+- [NodeJS Docs](https://nodejs.org/en/docs/)
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [Medium](https://medium.com/swlh/chat-rooms-with-socket-io-25e9d1a05947)
 
 
 
