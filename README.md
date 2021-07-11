@@ -18,6 +18,7 @@ This is a video calling web application which one can use on their browser.
 - PeerJS
 - Socket IO
 - Express JS
+- EJS
 - HTML / CSS / Bootstrap
 - Javascript
 
