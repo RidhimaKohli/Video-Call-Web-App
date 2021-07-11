@@ -42,11 +42,11 @@ This repositary contains code for all the three parts together.
 
 ## How to use the website ? 😵
 
-Link to demo : [Demo]()
+Link to demo : [Demo](https://youtu.be/7IzEorGtrDA)
 
 ## Website link ❤
 
-- Link : [Video Call Web-App]()
+- Link : [Video Call Web-App](https://video-call-home.herokuapp.com/)
 
 This website has been deployed using heroku
 
