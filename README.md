@@ -44,6 +44,8 @@ This repositary contains code for all the three parts together.
 
 Link to demo : [Demo](https://youtu.be/7IzEorGtrDA)
 
+Introduction slides : [Slides](https://docs.google.com/presentation/d/1NxyeZbWRqxTElfOIbtyWeNs0UFvQ-V6S2GNR2pWZpRE/edit?usp=sharing)
+
 ## Website link ❤
 
 - Link : [Video Call Web-App](https://video-call-home.herokuapp.com/)
