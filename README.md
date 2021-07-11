@@ -24,7 +24,7 @@ This is a video calling web application which one can use on their browser.
 ## Features 📃
 - Video Call
 - Chat Room
-- Fun Page ( Do not forget to see the surprise at fun page )
+- Fun Page ( Do not forget to see the surprise at fun page 😉)
 
 ## What's in the code ? 💻
 
@@ -42,7 +42,7 @@ Link to demo : [Demo]()
 ## Website link ❤
 
 - Link : [Video Call Web-App]()
-
+This website has been deployed using heroku
 
 
 
