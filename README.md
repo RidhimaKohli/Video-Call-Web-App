@@ -1,20 +1,18 @@
-# Video-Call-Web-App
+# Video-Call-Web-App 
 
-Welcome !
+✨✨✨Welcome !✨✨✨
 This repository contains the code for the Video-Call-Web-App developed by : [Ridhima Kohli](https://github.com/RidhimaKohli)
  under the Microsoft Mentorship Program , 2021.
 
 This project was developed following the Agile Methodology . The Kanban Board in project section contains the status cards for the different tasks which will be performed in iterative phases.
 
-- Wireframes :
-- Use Cases :
+- [Wireframes and use cases](https://drive.google.com/file/d/1Mbm1YG_T0cqQQRzyMGtn0eq-SkjqNjVr/view?usp=sharing)
 
 # Description
 
 This is a video calling web application which one can use on their browser.
 
-## TechStack
-- Django
+## TechStack 👩🏻‍💻
 - NodeJS
 - PeerJS
 - Socket IO
@@ -22,24 +20,29 @@ This is a video calling web application which one can use on their browser.
 - HTML / CSS / Bootstrap
 - Javascript
 
-## What's in the code ?
+## Features 📃
+- Video Call
+- Chat Room
+- Fun Page ( Do not forget to see the surprise at fun page )
 
-This code consists of two parts :
-- Django Part : Used for creating home-page
-    - Link to repo of Django deployed part :
-- NodeJS Part : Used for Video Calling room
-    - Link to repo of NodeJS deployed part :
+## What's in the code ? 💻
 
-## How to use the website ?
+This code consists of three parts :
+- Home Page 
+- Video Call
+- Chat Room
+The three parts are deployed separately and linked together.
+This repositary contains code for all the three parts together.
 
-1) Open the link : 
-2)
-3)
-4)
+## How to use the website ? 😵
 
-## Website link 
+Link to demo : [Demo]()
 
--Link : 
+## Website link ❤
+
+-Link : [Video Call Web-App]()
+
+
 
 
 
