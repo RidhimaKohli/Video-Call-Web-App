@@ -38,8 +38,10 @@ This code consists of three parts :
 - Home Page 
 - Video Call
 - Chat Room
+
 The three parts are deployed separately and linked together.
 This repositary contains code for all the three parts together.
+
 
 ## How to use the website ? 😵
 
