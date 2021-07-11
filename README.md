@@ -5,7 +5,7 @@
 This repository contains the code for the Video-Call-Web-App developed by : [Ridhima Kohli](https://github.com/RidhimaKohli)
  under the Microsoft Mentorship Program , 2021.
 
-This project was developed following the Agile Methodology . The Kanban Board in project section contains the status cards for the different tasks which will be performed in iterative phases.
+This project was developed following the Agile Methodology . The [Kanban Board](https://github.com/RidhimaKohli/Video-Call-Web-App/projects/1) in project section contains the status cards for the different tasks which will be performed in iterative phases.
 
 - [Wireframes and use cases](https://drive.google.com/file/d/1Mbm1YG_T0cqQQRzyMGtn0eq-SkjqNjVr/view?usp=sharing)
 
