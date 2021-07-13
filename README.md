@@ -22,7 +22,7 @@ This is a video calling web application which one can use on their browser.
 - HTML / CSS / Bootstrap
 - Javascript
 
-## Development Tools used
+## Development Tools used 🛠
 - VS Code
 - [Accessibility Extension](https://microsoftedge.microsoft.com/addons/detail/accessibility-insights-fo/ghbhpcookfemncgoinjblecnilppimih)
 - Figma ( for wireframes )
