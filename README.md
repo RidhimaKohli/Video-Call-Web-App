@@ -59,6 +59,7 @@ This website has been deployed using heroku
 
 - [Socket IO Docs](https://socket.io/docs/v4/index.html)
 - [NodeJS Docs](https://nodejs.org/en/docs/)
+- [PeerJS Docs](https://peerjs.com/)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 - [Medium](https://medium.com/swlh/chat-rooms-with-socket-io-25e9d1a05947)
 
